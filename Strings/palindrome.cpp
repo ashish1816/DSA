@@ -7,6 +7,9 @@ Example:
     word: nurse --> false
     number: 68986 --> true
     number: 12346 --> false
+
+Time complexity: O(n)
+Space complexity: O(n)
 */
 
 #include <iostream>
