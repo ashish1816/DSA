@@ -66,6 +66,6 @@ In this algorithm, recursive calls are made to  GCD(B,A%B). The values that are 
 3. A = B + K*C where K is some integer
 
  Congruence Modulo is an **Equivalence Relation** which means the following:-
- > They are  **reflexive**: A is related to A i.e. A ≡ A  (mod C)
- > They are  **symmetric**: if A is related to B, then B is related to A  i.e. if A ≡ B (mod C) then B ≡A  (mod C)
- > They are  **transitive**: if A is related to B and B is related to C then A is related to C i.e. if A ≡ B  (mod C) and B ≡ D (mod C) then A ≡ D  (mod C)
+ > 1. They are  **reflexive**: A is related to A i.e. A ≡ A  (mod C)
+ > 2. They are  **symmetric**: if A is related to B, then B is related to A  i.e. if A ≡ B (mod C) then B ≡A  (mod C)
+ > 3. They are  **transitive**: if A is related to B and B is related to C then A is related to C i.e. if A ≡ B  (mod C) and B ≡ D (mod C) then A ≡ D  (mod C)
